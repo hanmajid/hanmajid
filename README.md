@@ -1,11 +1,13 @@
-### Hello there 👋
+#### Introducktion 🦆
 
-I am a fresh graduate learning to become an Android/web developer.
+I work on Android, Flutter, and React.JS projects.
 
-- 🔭 I’m currently working on gaining more experiences.
-- 🌱 I’m currently learning Android development with Kotlin + Jetpack
-- 👯 I’m looking to collaborate on Android, React.js, & Flutter
-- 🤔 I’m looking for help with how to pay my taxes
-- 💬 Ask me about my cats
-- 📫 How to reach me: my email
-- ⚡ Fun fact: I wanted to be a llama fashion designer, but my mom says no
+##### 🤖 Repositories
+
+- [flutter_whatsapp](https://github.com/hanmajid/flutter_whatsapp): WhatsApp clone using Flutter
+
+##### 📦 Packages
+
+- [react-big-form](https://github.com/hanmajid/react-big-form/packages/385531): Easily manage large controlled forms in React.JS!
+
+Have a good day!
