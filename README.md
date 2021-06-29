@@ -17,4 +17,8 @@ I work on Android, Flutter, and React.JS projects.
 - [Mylion](https://play.google.com/store/apps/details?id=com.hanmajid.mylion): Simple blog Android application made with Flutter 🐟 
 - [Sirekap 2020](https://play.google.com/store/apps/details?id=id.go.kpu.sirekap): Android application for Indonesia's 2020 regional election 🗳
 
+##### 📰 Articles 
+
+- [Medium](https://yggr.medium.com): I published technical articles every weekend here
+
 Have a good day!
