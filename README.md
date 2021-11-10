@@ -20,7 +20,7 @@ I work on Android, Flutter, and React.JS projects.
 
 ##### Personal Projects
 
-| Mylion | Artemis | 
+| <a href="https://play.google.com/store/apps/details?id=com.hanmajid.mylion">Mylion 🐟</a> | <a href="https://play.google.com/store/apps/details?id=com.hanmajid.artemis">Artemis 📸</a> | 
 | :----: | :-----: |
 | <a href="https://play.google.com/store/apps/details?id=com.hanmajid.mylion"><img src="images/mylion-logo.webp" alt="Mylion logo" width="50" height="50" /></a> | <a href="https://play.google.com/store/apps/details?id=com.hanmajid.artemis"><img src="images/artemis-logo.png" alt="Artemis logo" width="50" height="50" /></a> |
 
