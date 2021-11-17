@@ -27,7 +27,7 @@ I work on Android, Flutter, and React.JS projects.
 ##### Non-Personal Projects
 
 - [Sirekap 2020](https://play.google.com/store/apps/details?id=id.go.kpu.sirekap): Android application for Indonesia's 2020 regional election 🗳
-- [IES by LPiK ITB](https://play.google.com/store/apps/details?id=id.ac.itb.lpik) : LPiK ITB's showcase application 🎓
+- IES by LPiK ITB ([Play Store](https://play.google.com/store/apps/details?id=id.ac.itb.lpik)) ([App Store](https://apps.apple.com/app/ies-by-lpik-itb/id1594863280)) : LPiK ITB's showcase application 🎓
 - [SulutKu](https://play.google.com/store/apps/details?id=com.komplit.sulutku) 🏝
 - [Diakonia](https://play.google.com/store/apps/details?id=com.komplit.diakonia) 💰
 
