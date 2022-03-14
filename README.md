@@ -14,7 +14,7 @@ I work on Android, Flutter, and React.JS projects.
 
 #### 📰 Articles 
 
-- [Medium](https://yggr.medium.com): I published technical articles every weekend here
+- [Medium](https://yggr.medium.com): I published technical articles here
 
 #### 💻 Published Applications
 
